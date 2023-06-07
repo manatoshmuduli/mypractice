@@ -26,5 +26,5 @@ steps:
 
 availableSecrets:
   secretManager:
-  - versionName: projects/784252204194/secrets/Manatosh/versions/latest
+  - versionName: projects/784252204194/secrets/ssh/versions/1
     env: 'SSH_KEY'
