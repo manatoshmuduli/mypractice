@@ -19,7 +19,7 @@ steps:
   args:
   - clone
   - --recurse-submodules
-  - git@github.com:manatoshmuduli/mypractice
+  - git@github.com:manatoshmuduli/mypractice.git
   volumes:
   - name: 'ssh'
     path: /root/.ssh
